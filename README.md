@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After completing my General Assembly coding bootcamp, one of the last projects that remained was to build my portfolio so I could show off all that I'd accomplished in the previous months!
 
-## Available Scripts
+This portfolio page wasn't meant to be anything too ambitious, just a showcase for what I'd learnt. However, I did use it as a learning opportunity.
 
-In the project directory, you can run:
+* I built the page using **Create-React-App**. This was my first time using it and I was a bit intimidated, especially when it came to deployment. But in the end I was able to make it work perfectly and I'm excited to use it again when building side projects!
+* I already had experience using Bulma and Semantic UI, so for this project I wanted to use something different. I went with **React Bootstrap** and found it easy to use and pretty flexible in terms of styling. As always with new CSS frameworks, I struggled with the layout functionality, but eventually I got that working as well.
+* A big priority was to make this portfolio **fully-responsive** using media queries. I ended up using three different layers of media-queries to make it adaptable for computers, tablets, and mobile. This was great practice as I hadn't used media queries in a while and was keen to remind myself how to use them! This was really valuable experience but also the most time-consuming part of the project. I reckon I spent 50% of the total project time tinkering with responsiveness related issues. But I think it was time well spent!
 
-### `yarn start`
+Acknowledgements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I used Imgur to host almost all the images and <a href="https://www.rawpixel.com/?sort=shuffle&page=1&feed=creative-feed">RawPixel</a> for the stock image of the balloon. I got the balloon floating effect from <a href="https://codepen.io/MarioDesigns/pen/woJgeo?editors=1100 ">Mario Duarte</a> and the flaming letters effect from <a href="https://codepen.io/makan/pen/yyjRZx?editors=1100">Makan</a>. Google Fonts helped out with their Chivo, Pacifico, and Niconne typographies. <a href="https://uigradients.com/">UIGradients</a> provided the hero colour scheme.  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
